@@ -1,3 +1,6 @@
 # billwangust.xyz
-# My personal website with my domain
-## Using a cool theme
+## _This is the first step of my journey_
+
+### A little about me
+
+
